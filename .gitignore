@@ -4,3 +4,5 @@ TemplateHTML5
 /burn_video
 notes
 /.ipynb_checkpoints
+.DS_Store
+/anaconda_projects
