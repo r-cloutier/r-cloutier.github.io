@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  14 SEP 2026 16:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  14 SEP 2026 16:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -228,17 +228,17 @@ al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 <fcr.png, id=10, 561.09625pt x 122.4575pt>
 File: fcr.png Graphic file (type png)
 <use fcr.png>
-Package pdftex.def Info: fcr.png  used on input line 99.
+Package pdftex.def Info: fcr.png  used on input line 100.
 (pdftex.def)             Requested size: 435.32419pt x 95.0082pt.
 <news.png, id=12, 966.61125pt x 494.84875pt>
 File: news.png Graphic file (type png)
 <use news.png>
-Package pdftex.def Info: news.png  used on input line 105.
+Package pdftex.def Info: news.png  used on input line 106.
 (pdftex.def)             Requested size: 237.0141pt x 121.33339pt.
 <socialmedia.png, id=13, 964.60374pt x 486.81876pt>
 File: socialmedia.png Graphic file (type png)
 <use socialmedia.png>
-Package pdftex.def Info: socialmedia.png  used on input line 106.
+Package pdftex.def Info: socialmedia.png  used on input line 107.
 (pdftex.def)             Requested size: 237.0141pt x 119.61705pt.
 
 
@@ -250,7 +250,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <research_network.png, id=20, 918.43124pt x 321.70187pt>
 File: research_network.png Graphic file (type png)
 <use research_network.png>
-Package pdftex.def Info: research_network.png  used on input line 140.
+Package pdftex.def Info: research_network.png  used on input line 141.
 (pdftex.def)             Requested size: 483.69684pt x 169.42615pt.
 
 
@@ -258,10 +258,10 @@ Package pdftex.def Info: research_network.png  used on input line 140.
 <citations.png, id=27, 973.6375pt x 501.875pt>
 File: citations.png Graphic file (type png)
 <use citations.png>
-Package pdftex.def Info: citations.png  used on input line 149.
+Package pdftex.def Info: citations.png  used on input line 150.
 (pdftex.def)             Requested size: 386.95894pt x 199.4599pt.
 
-Overfull \hbox (6.81139pt too wide) in paragraph at lines 165--166
+Overfull \hbox (6.81139pt too wide) in paragraph at lines 166--167
 []$[]$\OT1/cmr/m/n/12 , Pu-dritz, R.E., & \OT1/cmr/bx/n/12 Cloutier, R. \OT1/cm
 r/m/n/12 (2026) ``A val-i-dated low-to-intermediate
  []
@@ -269,7 +269,7 @@ r/m/n/12 (2026) ``A val-i-dated low-to-intermediate
 
 
 [4 <./citations.png>]
-Overfull \hbox (0.34842pt too wide) in paragraph at lines 180--181
+Overfull \hbox (0.34842pt too wide) in paragraph at lines 181--182
 []$[]$\OT1/cmr/m/n/12 , $[]$, \OT1/cmr/bx/n/12 Cloutier, R.\OT1/cmr/m/n/12 , Br
 own, N., Bean, J., et al. (2025) ``Aligned
  []
@@ -277,7 +277,7 @@ own, N., Bean, J., et al. (2025) ``Aligned
 
 
 [5]
-Overfull \hbox (9.75362pt too wide) in paragraph at lines 183--184
+Overfull \hbox (9.75362pt too wide) in paragraph at lines 184--185
 []\OT1/cmr/m/n/12 Coulombe, L.P., Ben-neke, B., Krissansen-Totton, J., L'Heureu
 x, A., Piaulet-Ghorayeb,
  []
@@ -285,7 +285,7 @@ x, A., Piaulet-Ghorayeb,
 
 
 [6]
-Overfull \hbox (1.18634pt too wide) in paragraph at lines 201--202
+Overfull \hbox (1.18634pt too wide) in paragraph at lines 202--203
 []$[]$ \OT1/cmr/m/n/12 & \OT1/cmr/bx/n/12 Cloutier, R. \OT1/cmr/m/n/12 (2024) `
 `Mod-el-ing Mul-ti-ple Ra-dius Val-ley Emer-
  []
@@ -293,7 +293,7 @@ Overfull \hbox (1.18634pt too wide) in paragraph at lines 201--202
 
 
 [7]
-Overfull \hbox (18.16101pt too wide) in paragraph at lines 213--214
+Overfull \hbox (18.16101pt too wide) in paragraph at lines 214--215
 []\OT1/cmr/m/n/12 Quintana, E. V., Gilbert, E. A., Bar-clay, T., Sil-ver-stein,
  M. L., Schlieder, J. E.,\OT1/cmr/bx/n/12 Cloutier,
  []
@@ -305,7 +305,7 @@ Overfull \hbox (18.16101pt too wide) in paragraph at lines 213--214
 [9]
 
 [10]
-Overfull \hbox (3.24113pt too wide) in paragraph at lines 251--252
+Overfull \hbox (3.24113pt too wide) in paragraph at lines 252--253
 []\OT1/cmr/m/n/12 Kemmer, J., Stock, S., Kos-sakowski, D., Kamin-ski, A., Molav
 erdikhani, K., Schlecker,
  []
@@ -315,7 +315,7 @@ erdikhani, K., Schlecker,
 [11]
 
 [12]
-Overfull \hbox (49.45206pt too wide) in paragraph at lines 271--272
+Overfull \hbox (49.45206pt too wide) in paragraph at lines 272--273
 []\OT1/cmr/bx/n/12 Cloutier, R.\OT1/cmr/m/n/12 , & Tri-aud, A. H. M. J. (2016).
  ``Prospects for de-tect-ing the Rossiter{McLaughlin
  []
@@ -323,7 +323,7 @@ Overfull \hbox (49.45206pt too wide) in paragraph at lines 271--272
 
 
 [13]
-Overfull \hbox (1.29752pt too wide) in paragraph at lines 297--298
+Overfull \hbox (1.29752pt too wide) in paragraph at lines 298--299
 []$[]$\OT1/cmr/m/n/12 , $[]$, \OT1/cmr/bx/n/12 Cloutier R.\OT1/cmr/m/n/12 , L'H
 eureux, A., & Cadieux, C. ``A Frame-
  []
@@ -331,7 +331,7 @@ eureux, A., & Cadieux, C. ``A Frame-
 
 
 [14]
-Overfull \hbox (9.14201pt too wide) in paragraph at lines 305--306
+Overfull \hbox (9.14201pt too wide) in paragraph at lines 306--307
 []\OT1/cmr/m/n/12 Artigau, E., Par-ent, C.A., Ste-fanov, A., Bour-dais, E., Oue
 -draogo, S., et al. ``Welopo'ai,
  []
@@ -339,7 +339,7 @@ Overfull \hbox (9.14201pt too wide) in paragraph at lines 305--306
 
 
 [15]
-Overfull \hbox (14.18799pt too wide) in paragraph at lines 324--325
+Overfull \hbox (14.18799pt too wide) in paragraph at lines 325--326
 []\OT1/cmr/m/n/12 Malo, L. et al. (2024) ``NIRPS near-infrared spec-tro-graph: 
 AITV phase at ESO3.6m/La
  []
@@ -347,7 +347,7 @@ AITV phase at ESO3.6m/La
 
 
 [16]
-Overfull \hbox (9.21054pt too wide) in paragraph at lines 353--354
+Overfull \hbox (9.21054pt too wide) in paragraph at lines 354--355
 []\OT1/cmr/m/n/12 ``The stel-lar mass de-pen-dence of the ra-dius val-ley: in-s
 ights into form-ing the rocky/enveloped
  []
@@ -361,7 +361,7 @@ ights into form-ing the rocky/enveloped
 [19]
 
 [20]
-Overfull \hbox (19.06981pt too wide) in alignment at lines 621--621
+Overfull \hbox (19.06981pt too wide) in alignment at lines 622--622
 [][][][][] 
  []
 
@@ -377,34 +377,34 @@ LaTeX Warning: Text page 22 contains only floats.
 
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 681--686
+Underfull \hbox (badness 10000) in paragraph at lines 682--687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 688--692
+Underfull \hbox (badness 10000) in paragraph at lines 689--693
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--707
+Underfull \hbox (badness 10000) in paragraph at lines 701--708
 
  []
 
 
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 709--714
+Underfull \hbox (badness 10000) in paragraph at lines 710--715
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 748--751
+Underfull \hbox (badness 10000) in paragraph at lines 749--752
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 752--757
+Underfull \hbox (badness 10000) in paragraph at lines 753--758
 
  []
 
@@ -413,12 +413,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 752--757
 [24]
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 819--827
+Underfull \hbox (badness 10000) in paragraph at lines 820--828
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 828--836
+Underfull \hbox (badness 10000) in paragraph at lines 829--837
 
  []
 
@@ -453,7 +453,7 @@ texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
 exlive/2025/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texli
 ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive
 /2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Cloutier_CV.pdf (27 pages, 2306413 bytes).
+Output written on Cloutier_CV.pdf (27 pages, 2306714 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
