@@ -1,0 +1,462 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  14 SEP 2026 16:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Cloutier_CV.tex
+(./Cloutier_CV.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count270
+\rotFPtop=\skip51
+\rotFPbot=\skip52
+\rot@float@box=\box52
+\rot@mess@toks=\toks18
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box53
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip53
+\enit@outerparindent=\dimen144
+\enit@toks=\toks19
+\enit@inbox=\box54
+\enit@count@id=\count271
+\enitdp@description=\count272
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen145
+\ar@mcellbox=\box55
+\extrarowheight=\dimen146
+\NC@list=\toks20
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box56
+)
+\TX@col@width=\dimen147
+\TX@old@table=\dimen148
+\TX@old@col=\dimen149
+\TX@target=\dimen150
+\TX@delta=\dimen151
+\TX@cols=\count273
+\TX@ftn=\toks21
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count274
+\mult@box=\box57
+\multicol@leftmargin=\dimen152
+\c@unbalance=\count275
+\c@collectmore=\count276
+\doublecol@number=\count277
+\multicoltolerance=\count278
+\multicolpretolerance=\count279
+\full@width=\dimen153
+\page@free=\dimen154
+\premulticols=\dimen155
+\postmulticols=\dimen156
+\multicolsep=\skip56
+\multicolbaselineskip=\skip57
+\partial@page=\box58
+\last@line=\box59
+\mc@boxedresult=\box60
+\maxbalancingoverflow=\dimen157
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@firstbox=\box63
+\mult@gfirstbox=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\c@minrows=\count280
+\c@columnbadness=\count281
+\c@finalcolumnbadness=\count282
+\last@try=\dimen158
+\multicolovershoot=\dimen159
+\multicolundershoot=\dimen160
+\mult@nat@firstbox=\box101
+\colbreak@box=\box102
+\mc@col@check@num=\count283
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box103
+)
+(./Cloutier_CV.aux)
+\openout1 = `Cloutier_CV.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+(/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count285
+\scratchdimen=\dimen161
+\scratchbox=\box104
+\nofMPsegments=\count286
+\nofMParguments=\count287
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen162
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Underfull \hbox (badness 10000) in paragraph at lines 24--33
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 50.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 50.
+
+
+[1
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<fcr.png, id=10, 561.09625pt x 122.4575pt>
+File: fcr.png Graphic file (type png)
+<use fcr.png>
+Package pdftex.def Info: fcr.png  used on input line 99.
+(pdftex.def)             Requested size: 435.32419pt x 95.0082pt.
+<news.png, id=12, 966.61125pt x 494.84875pt>
+File: news.png Graphic file (type png)
+<use news.png>
+Package pdftex.def Info: news.png  used on input line 105.
+(pdftex.def)             Requested size: 237.0141pt x 121.33339pt.
+<socialmedia.png, id=13, 964.60374pt x 486.81876pt>
+File: socialmedia.png Graphic file (type png)
+<use socialmedia.png>
+Package pdftex.def Info: socialmedia.png  used on input line 106.
+(pdftex.def)             Requested size: 237.0141pt x 119.61705pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[2 <./fcr.png>]
+<research_network.png, id=20, 918.43124pt x 321.70187pt>
+File: research_network.png Graphic file (type png)
+<use research_network.png>
+Package pdftex.def Info: research_network.png  used on input line 140.
+(pdftex.def)             Requested size: 483.69684pt x 169.42615pt.
+
+
+[3 <./news.png> <./socialmedia.png> <./research_network.png>]
+<citations.png, id=27, 973.6375pt x 501.875pt>
+File: citations.png Graphic file (type png)
+<use citations.png>
+Package pdftex.def Info: citations.png  used on input line 149.
+(pdftex.def)             Requested size: 386.95894pt x 199.4599pt.
+
+Overfull \hbox (6.81139pt too wide) in paragraph at lines 165--166
+[]$[]$\OT1/cmr/m/n/12 , Pu-dritz, R.E., & \OT1/cmr/bx/n/12 Cloutier, R. \OT1/cm
+r/m/n/12 (2026) ``A val-i-dated low-to-intermediate
+ []
+
+
+
+[4 <./citations.png>]
+Overfull \hbox (0.34842pt too wide) in paragraph at lines 180--181
+[]$[]$\OT1/cmr/m/n/12 , $[]$, \OT1/cmr/bx/n/12 Cloutier, R.\OT1/cmr/m/n/12 , Br
+own, N., Bean, J., et al. (2025) ``Aligned
+ []
+
+
+
+[5]
+Overfull \hbox (9.75362pt too wide) in paragraph at lines 183--184
+[]\OT1/cmr/m/n/12 Coulombe, L.P., Ben-neke, B., Krissansen-Totton, J., L'Heureu
+x, A., Piaulet-Ghorayeb,
+ []
+
+
+
+[6]
+Overfull \hbox (1.18634pt too wide) in paragraph at lines 201--202
+[]$[]$ \OT1/cmr/m/n/12 & \OT1/cmr/bx/n/12 Cloutier, R. \OT1/cmr/m/n/12 (2024) `
+`Mod-el-ing Mul-ti-ple Ra-dius Val-ley Emer-
+ []
+
+
+
+[7]
+Overfull \hbox (18.16101pt too wide) in paragraph at lines 213--214
+[]\OT1/cmr/m/n/12 Quintana, E. V., Gilbert, E. A., Bar-clay, T., Sil-ver-stein,
+ M. L., Schlieder, J. E.,\OT1/cmr/bx/n/12 Cloutier,
+ []
+
+
+
+[8]
+
+[9]
+
+[10]
+Overfull \hbox (3.24113pt too wide) in paragraph at lines 251--252
+[]\OT1/cmr/m/n/12 Kemmer, J., Stock, S., Kos-sakowski, D., Kamin-ski, A., Molav
+erdikhani, K., Schlecker,
+ []
+
+
+
+[11]
+
+[12]
+Overfull \hbox (49.45206pt too wide) in paragraph at lines 271--272
+[]\OT1/cmr/bx/n/12 Cloutier, R.\OT1/cmr/m/n/12 , & Tri-aud, A. H. M. J. (2016).
+ ``Prospects for de-tect-ing the Rossiter{McLaughlin
+ []
+
+
+
+[13]
+Overfull \hbox (1.29752pt too wide) in paragraph at lines 297--298
+[]$[]$\OT1/cmr/m/n/12 , $[]$, \OT1/cmr/bx/n/12 Cloutier R.\OT1/cmr/m/n/12 , L'H
+eureux, A., & Cadieux, C. ``A Frame-
+ []
+
+
+
+[14]
+Overfull \hbox (9.14201pt too wide) in paragraph at lines 305--306
+[]\OT1/cmr/m/n/12 Artigau, E., Par-ent, C.A., Ste-fanov, A., Bour-dais, E., Oue
+-draogo, S., et al. ``Welopo'ai,
+ []
+
+
+
+[15]
+Overfull \hbox (14.18799pt too wide) in paragraph at lines 324--325
+[]\OT1/cmr/m/n/12 Malo, L. et al. (2024) ``NIRPS near-infrared spec-tro-graph: 
+AITV phase at ESO3.6m/La
+ []
+
+
+
+[16]
+Overfull \hbox (9.21054pt too wide) in paragraph at lines 353--354
+[]\OT1/cmr/m/n/12 ``The stel-lar mass de-pen-dence of the ra-dius val-ley: in-s
+ights into form-ing the rocky/enveloped
+ []
+
+
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+Overfull \hbox (19.06981pt too wide) in alignment at lines 621--621
+[][][][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[21]
+
+LaTeX Warning: Text page 22 contains only floats.
+
+
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 681--686
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 688--692
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 700--707
+
+ []
+
+
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 709--714
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 748--751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 752--757
+
+ []
+
+
+
+[24]
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 819--827
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 828--836
+
+ []
+
+
+
+[26]
+
+[27] (./Cloutier_CV.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2175 strings out of 473190
+ 35857 string characters out of 5715801
+ 447069 words of memory out of 5000000
+ 25437 multiletter control sequences out of 15000+600000
+ 565203 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,13n,79p,777b,346s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/
+texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive
+/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Cloutier_CV.pdf (27 pages, 2306413 bytes).
+PDF statistics:
+ 169 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
